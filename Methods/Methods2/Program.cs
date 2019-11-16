@@ -13,6 +13,12 @@ namespace Methods2
             string lastNumber = Console.ReadLine();
 
             int number1 = int.Parse(firstNumber);
+
+
+
+
+
+
             int number2 = int.Parse(lastNumber);
 
 
